@@ -16,11 +16,16 @@ namespace TPmod2KPL
         {
             string inputText = textBox1.Text;
 
-         
+
             string outputText = "Hello, " + inputText + "!";
 
-     
+
             label1.Text = outputText;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
