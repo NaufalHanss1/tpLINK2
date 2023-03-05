@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\bin\Debug\net6.0-windows\TPmod2KPL.exe
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\bin\Debug\net6.0-windows\TPmod2KPL.deps.json
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\bin\Debug\net6.0-windows\TPmod2KPL.runtimeconfig.json
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\bin\Debug\net6.0-windows\TPmod2KPL.dll
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\bin\Debug\net6.0-windows\TPmod2KPL.pdb
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.Form1.resources
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.dll
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\refint\TPmod2KPL.dll
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.pdb
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\TPmod2KPL.genruntimeconfig.cache
+C:\Users\ACER\source\repos\tpmod2\TPmod2KPL\TPmod2KPL\obj\Debug\net6.0-windows\ref\TPmod2KPL.dll
